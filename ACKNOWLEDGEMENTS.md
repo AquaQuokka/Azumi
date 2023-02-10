@@ -1,0 +1,12 @@
+aiohttp
+aiosignal
+attrs
+camelcase
+multidict
+pip
+py-cord
+python-dotenv
+python-weather
+yarl
+requests
+psutil
